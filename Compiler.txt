@@ -1,0 +1,11 @@
+program demo;
+const x = 2;
+var y : int ;
+begin
+	print "hello";
+	prompt "hello there";
+	print "y234";
+	y = x + y * 4 div 7 -  y - 3 + x;
+	
+end.
+

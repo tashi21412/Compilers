@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SymbolTable()
+comment1.params=
+comment1.target=void\ addLevel()
+comment2.params=category\ name\ value\ type\ params
+comment2.target=void\ addSymbol(java.lang.String,\ java.lang.String,\ java.lang.String,\ TokenType,\ java.util.ArrayList)
+comment3.params=levelNum
+comment3.target=SymbolLevel\ getLevelAt(int)
+comment4.params=toChange\ newValue\ indexTracker
+comment4.target=void\ setValue(java.lang.String,\ java.lang.String,\ int)
+comment5.params=name\ indexTracker
+comment5.target=boolean\ findSymbol(java.lang.String,\ int)
+comment6.params=
+comment6.target=void\ removeLevel()
+comment7.params=
+comment7.target=void\ printSymbolTable()
+numComments=8

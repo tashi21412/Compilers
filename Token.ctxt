@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=line\ column\ type\ lexeme
+comment0.target=Token(int,\ int,\ TokenType,\ java.lang.String)
+comment0.text=\r\n\ Construct\ a\ Token\ object\ given\ its\ components.\r\n\ \r\n\ @param\ line\ the\ line\ number\ (starting\ from\ 1)\ where\ the\ token\ was\ found\r\n\ @param\ column\ the\ column\ number\ (starting\ from\ 1)\ where\ the\ token\ started\r\n\ @param\ type\ the\ TokenType\ of\ the\ token\r\n\ @param\ lexeme\ the\ string\ value\ of\ the\ token\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+numComments=2

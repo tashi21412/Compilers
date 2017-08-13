@@ -1,0 +1,29 @@
+$junk #1
+$main movw SP R0
+movw # (var) @SP R0
+addw #4 SP
+add #4 SP
+outb ^h
+outb ^e
+outb ^l
+outb ^l
+outb ^o
+outb ^ 
+outb ^h
+outb ^e
+outb ^l
+outb ^l
+outb ^o
+outb ^ 
+outb ^t
+outb ^h
+outb ^e
+outb ^r
+outb ^e
+outb ^ 
+outb ^y
+outb ^2
+outb ^3
+outb ^4
+outb ^ 
+end

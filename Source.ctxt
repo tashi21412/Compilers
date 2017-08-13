@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=in
+comment0.target=Source(java.io.Reader)
+comment0.text=\r\n\ Construct\ a\ Source\ wrapping\ the\ given\ Reader.\ Once\ constructed,\ the\ first\r\n\ character\ of\ the\ source\ (at\ line\ 1,\ column\ 1)\ will\ be\ available\ via\r\n\ current(),\ or\ else\ atEOF()\ will\ be\ true.\r\n\ \r\n\ @param\ in\r\n
+comment1.params=
+comment1.target=void\ advance()
+comment1.text=\r\n\ Advance\ to\ the\ next\ available\ character,\ if\ any.\ Either\ the\ new\ character\r\n\ will\ be\ available\ through\ current(),\ or\ atEOF()\ will\ be\ true.\r\n
+comment2.params=
+comment2.target=void\ close()
+comment2.text=\r\n\ Close\ the\ underlying\ Reader.\r\n\ \r\n\ @throws\ IOException\r\n
+numComments=3
